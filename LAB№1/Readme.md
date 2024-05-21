@@ -9,7 +9,7 @@
 
 ![image](https://github.com/drusch91/Lab_C/assets/119664059/44a78e7b-e016-4dbb-85b4-035f472be6fe)
 
-Код программы находится: [тут](./PointerTask.cpp)
+Код программы находится: [тут](./Exponention.cpp)
 
 =================================================================================
 
@@ -25,13 +25,13 @@
 
 =================================================================================
 
-Задание №2.
+Задание №3.
 
-![image](https://github.com/drusch91/Lab_C/assets/119664059/813ea229-98ff-4774-aea8-610e8a41ec7e)
+![image](https://github.com/drusch91/Lab_C/assets/119664059/308fbfac-45fe-4634-9314-643af330e1d7)
 
-Результат работы программы №1.
+Результат работы программы №3.
 
-![image](https://github.com/drusch91/Lab_C/assets/119664059/44a78e7b-e016-4dbb-85b4-035f472be6fe)
+![image](https://github.com/drusch91/Lab_C/assets/119664059/3e7db310-707e-4508-bc3b-0eb6999e1af0)
 
 Код программы находится: [тут](./PointerTask.cpp)
 
